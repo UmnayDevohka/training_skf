@@ -1,4 +1,4 @@
-# training_skf
+# training_skf_Python - разработка
 Обучение
 
 ## Проекты:
