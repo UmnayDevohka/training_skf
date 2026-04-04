@@ -1,4 +1,4 @@
-TOKEN = '8659093896:AAGi3ONLLkQJELlNWCDeOOCvoBLxiqORolE'
+TOKEN = '----------'
 
 val_list = {
     'USD': 'Доллар США',
