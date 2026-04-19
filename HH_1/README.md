@@ -5,4 +5,5 @@
 https://drive.google.com/drive/folders/1ZBtx6syfpAkoOyPe95ROgw7vDz_5_rVq?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
 ссылка для просмотра графиков
-https://drive.google.com/drive/folders/1hdRbGe_ojjwfN7EmIqpu8HM9T4dx0Aki?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+[https://drive.google.com/drive/folders/1hdRbGe_ojjwfN7EmIqpu8HM9T4dx0Aki?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](https://github.com/UmnayDevohka/training_skf/tree/main/HH_1/graf)
+
